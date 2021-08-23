@@ -6,7 +6,7 @@ text.addEventListener("click", function(){
     console.log("is it working?!");
 
     const h1 = document.createElement("h1");
-    h1.innerText = "Hello World!";
+    h1.innerText = "Hello World! I have no idea what I'm doin...";
     document.querySelector("body").append(h1);
     
 });
