@@ -11,7 +11,7 @@ text.addEventListener("click", function(){
     
 });
 
-
+//REACT DOES NOT WORK...
 
 // import React, {Component} from "react";
 // import ReactDOM from "react-dom";
